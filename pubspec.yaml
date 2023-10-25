@@ -23,7 +23,7 @@ dependencies:
   path: ^1.8.0
   package_config: ^2.1.0
   get_it: ^7.2.0
-  image: ^4.0.9
+  # image: ^4.0.9
   pub_semver: ^2.1.0
   console: ^4.1.0
   cli_util: ^0.4.0
